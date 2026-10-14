@@ -5,7 +5,7 @@ A clean, responsive task management web application built using React and Vite. 
 ---
 
 ## Preview
-
+![To Do List App Input State](./assets/Screenshot%202026-10-14%20204146.png)
 ![To Do List App Preview](./assets/Screenshot%202026-10-14%20204155.png)
 
 ---
