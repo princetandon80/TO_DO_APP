@@ -4,7 +4,7 @@ A clean and minimal task management application built using React and Vite.
 
 ## Preview
 
-![to-do list app preview](./assets/preview.png)
+![to-do list app preview](./assets/Screenshot 2026-10-14 204155.png)
 
 ## Features
 
