@@ -1,34 +1,51 @@
-# To Do list App
+# To Do List App
 
-A clean and minimal task management application built using React and Vite.
+A clean, responsive task management web application built using React and Vite. It allows users to organize their daily schedule efficiently with real-time task addition, deletion, and vertical position reordering.
+
+---
 
 ## Preview
 
-![to-do list app preview](./assets/Screenshot 2026-10-14 204155.png)
+![To Do List App Preview](./assets/Screenshot%202026-10-14%20204155.png)
 
-## Features
+---
 
-- Add new daily tasks quickly
-- Delete completed or unwanted tasks
-- Reorder tasks up and down with instant state updates
-- Responsive and clean minimal UI
+## Key Features
+
+- **Task Creation**: Add items directly into your list via input submission or keyboard events[cite: 1, 2].
+- **Task Removal**: Instantly delete individual tasks from the board[cite: 1, 2].
+- **Priority Reordering**: Shift tasks up or down within the sequence using dedicated positional controls[cite: 1, 2].
+- **Clean UI**: Minimalist card-style layout with centered viewport alignment and clear action buttons[cite: 1, 2].
+
+---
 
 ## Tech Stack
 
-- React
-- JavaScript
-- CSS3
-- Vite
+- **Frontend**: React
+- **Build Tool**: Vite
+- **Styling**: Vanilla CSS3
+- **Language**: JavaScript ES6+
 
-## Getting Started
+---
 
-1. Navigate to the project directory:
-   cd To_Do-List/to_do_list
+## Project Structure
 
-2. Install dependencies:
-   npm install
-
-3. Run the development server:
-   npm run dev
-
-Open your browser at the local link shown in your terminal.
+```text
+React/
+├── .gitignore
+├── README.md
+├── assets/
+│   └── Screenshot 2026-10-14 204155.png
+└── To_Do-List/
+    └── to_do_list/
+        ├── public/
+        ├── src/
+        │   ├── assets/
+        │   ├── App.css
+        │   ├── App.jsx
+        │   ├── index.css
+        │   ├── main.jsx
+        │   └── todolist.jsx
+        ├── index.html
+        ├── package.json
+        └── vite.config.js
