@@ -49,3 +49,5 @@ React/
         ├── index.html
         ├── package.json
         └── vite.config.js
+
+git clone [https://github.com/princetandon80/TO_DO_APP.git](https://github.com/princetandon80/TO_DO_APP.git)
