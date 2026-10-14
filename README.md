@@ -50,4 +50,36 @@ React/
         ├── package.json
         └── vite.config.js
 
+Installation & Setup
+Clone the repository:
+
+Bash
 git clone [https://github.com/princetandon80/TO_DO_APP.git](https://github.com/princetandon80/TO_DO_APP.git)
+Navigate into the application directory:
+
+Bash
+cd TO_DO_APP/To_Do-List/to_do_list
+Install project dependencies:
+
+Bash
+npm install
+Start the Vite development server:
+
+Bash
+npm run dev
+Open your browser and navigate to the local server address displayed in your terminal:
+
+### Terminal commands to push this to GitHub
+
+Once saved, run these lines in Git Bash inside your `Desktop/React` folder:
+
+```bash
+git add README.md assets/
+git commit -m "docs: add comprehensive readme with preview"
+git push origin main
+
+
+
+## Acknowledgements
+
+- Inspired by and built following tutorials by [Bro Code on YouTube](https://www.youtube.com/@BroCodez).
